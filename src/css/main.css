@@ -11,21 +11,6 @@ html,body {
   width: 100%;
 }
 
-.Card-rep {
-  width: 30%;
+.card {
+  width: 18rem;
 }
-
-.Card-main {}
-
-.Card-image {
-  width: 450px;
-}
-
-.Card-title {
-  font-size: 1.1em;
-  font-weight: 700;
-}
-
-.Card-body {}
-
-.Card-button {}
